@@ -15,3 +15,5 @@ See [code](ArduLaberinto/ArduLaberinto.ino)
 
 ## Labyrinth scape
 See [code](ArduSigueLineas/ArduSigueLineas.ino)
+
+All code can be found in spanish, no translation to english is expected to come in the short term unless requested. Code was developed in 2014 and hasn't been updated since then. 
